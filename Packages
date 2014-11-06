@@ -1,0 +1,32 @@
+Package: com.greeny.nomotion
+Version: 0.0.1-14
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 228
+Depends: mobilesubstrate
+Filename: .//com.greeny.nomotion_0.0.1-14_iphoneos-arm.deb
+Size: 54652
+MD5sum: 621628ee0b64f69ae8ed24fd91fac7ea
+SHA1: 058c1d7925fedc0b5164b8bc6ab7b5ce51e886e8
+SHA256: 7f27d449db05fedaa75333c1f77981953b9852e89b4e039f71b0940f844fd6fc
+Section: Tweaks
+Description: Remove the parallax effect, everywhere.
+Author: GreenyDev
+Name: NoMotion
+
+Package: com.greeny.notrackingplus
+Version: 0.0.1-137
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 504
+Depends: mobilesubstrate, firmware(>=8.0)
+Filename: .//com.greeny.notrackingplus_0.0.1-137_iphoneos-arm.deb
+Size: 159466
+MD5sum: 5ca5e7d3780ea6b57162c28c184a7033
+SHA1: 5436f1dc552af5d9a1cdd9b523a39740ce9de13a
+SHA256: 22c0cdafd33bb2653e192efa5ce5ecccdcfbc565a7179cf6e83f4254a532e3a5
+Section: Tweaks
+Description: Stop apps from tracking you.
+Author: GreenyDev
+Name: NoTracking+
+
