@@ -1,0 +1,11 @@
+Origin: HASHBANG Productions
+Label: HASHBANG Productions
+Suite: stable
+Version: 0.9
+Codename: hbang
+Architectures: iphoneos-arm
+Components: main
+Description: Awesome software by HASHBANG Productions
+MD5Sum:
+ cb7c7270c0c63a104d93a7d5a3161e95 7731 Packages
+ 09991265b18d2620d04374ae76198f24 2005 Packages.bz2
