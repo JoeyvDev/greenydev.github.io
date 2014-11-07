@@ -1,5 +1,5 @@
 RewriteEngine On
 
-RewriteBase /your_repo_folder/
+RewriteBase /Users/Greeny/greendev.github.io/
 RewriteRule ^(Release)$ release.php
 RewriteRule ^(Packages.*)$ package.php
