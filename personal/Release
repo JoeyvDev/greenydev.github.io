@@ -1,0 +1,11 @@
+Origin: Greeny's Beta Repo
+Label: Greeny's Beta Repo
+Suite: beta
+Version: 1.0
+Codename: greeny
+Architectures: iphoneos-arm
+Components: main
+Description: Greeny's Beta Repo
+MD5Sum:
+ cb7c7270c0c63a104d93a7d5a3161e95 7731 Packages
+ 09991265b18d2620d04374ae76198f24 2005 Packages.bz2
