@@ -1,39 +1,20 @@
 <?php
-	$isUDIDProtected=TRUE;
-    $name="CustomText";
+    $name="PreferenceReseter";
     $description=array(
-"Create your own widget with a <text style=\"font-family:'Times New Roman'\">font</text>, <text style='color:green'>color</text>, <text style='font-size:12px'>size</text>, and <strong>text-decoration</strong> that suits you. Just enter a placeholder and CustomTime with replace it with the appropriate text.<br><br>
-\$Mo = January<br>
-\$mo = Jan<br>
-\$W  = Sunday<br>
-\$w  = Sun<br>
-\$D  = 1<br>
-\$d  = 1st<br>
-\$y  = 14<br>
-\$Y  = 2014<br>
-\$H  = 24 hour<br>
-\$h  = 12 hour<br>
-\$m  = Minutes<br>
-\$M  = Minutes<br>
-\$s  = Seconds<br>
-\$S  = Seconds<br>
-\$b  = Line Break<br>
-$0  = Format default<br>
-$1  = Format 1<br>
-$2  = Format 2<br>
-$3  = Format 3<br>
-$4  = Format 4<br><br>
-For example, if you entered \"Today is \$Mo \$d, '\$y\$bAnd it is \$h:\$m\" it would return back the following:<br>
-Today is January 1st, '17<br>
-And it is 11:14<br><br>
-<strong>Please note</strong> that you must include a size for the \"Font Size\" fields. Most common is \"px\", but you may also use \"em\".");
+    "<text style=\"color: red;\">This package is a replacement to PreferenceRemover. I changed the name because with the new features I implemented, it does not simply remove preferences anymore, so the name was inaccurate.</text>",
+    "Resets a tweak's preferences. Pick the package ID of the tweak you want to reset, press the button, respring, and you're done! Simply removing the plist doesn't work anymore for iOS 8 tweaks, so I made this utility to make it easy to reset preferences",
+    "If you'd like to design me an icon, please do so!");
     
     $changelog=array(
-"<b>0.2:</b>",
-" - Doesn't update time when not displaying it (reduces memory usage)",
-"<b>0.1:</b>",
-" - Initial Release.");
+    "0.0.1-4", " - Finally fixed the bug that would cause users with files whose names were less than 6 characters long to crash!",
+    		   " - Hides more system preferences to help fool-proof it and chooses plist files only (skips folders and random files)",
+    		   " - Automatically adds backup folder now (/Library/PreferenceRemover/)",
+    "0.0.1-3", " - Added more logging to help debug some crashes",
+    "0.0.1-2", " - Removes plist file in addition to reseting the preferences in memory",
+    		   " - Added option to overwrite a tweak's preferences with the preferences contained in another plist! Now this is a plist backup/restore solution!",
+    		   " - Resprings are now done through Flipswitch in order to preserver battery usage data",
+    "0.0.1-1", " - Initial release.");
     
-    $devText="@ibbignerd";
-    $devLink="https://twitter.com/ibbignerd";
+    $devText="Developer's Twitter";
+    $devLink="https://twitter.com/JamesIscNeutron";
 ?>
