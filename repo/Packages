@@ -1,17 +1,18 @@
 Package: com.greeny.testpackage
-Version: 0.0.1-35
+Version: 0.0.1-36
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: .///com.greeny.testpackage_0.0.1-35_iphoneos-arm.deb
-Size: 2292
-MD5sum: eb89d9aea0010dc0f97dea521990ba16
-SHA1: bee8321a01ec91164ebe9b55ea8eb283145e15ce
-SHA256: bb62fcdcfd30094816d0f11657b0b150b21810098ac79ef3af4c13962c1b2430
+Filename: .///com.greeny.testpackage_0.0.1-36_iphoneos-arm.deb
+Size: 2330
+MD5sum: 12c05a0119e1720c9afc2294ead9e32f
+SHA1: 2240fc9d50511fb33d35466fd9e216a7c066c7ba
+SHA256: 7fa95ef5dc3f906f04c49fffbb26761388fa48300c6ea691909a878e81b11c83
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/testpackage/index.html
 Name: TestPackage
 
 Package: com.greeny.voipremover
