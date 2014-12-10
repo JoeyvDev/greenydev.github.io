@@ -1,3 +1,3 @@
-<p><a href="http://rcrepo.com" target="_blank">Reddit Community Repo</a></p>
+<p><a href="http://greenydev.github.io/repo/" target="_blank">Greeny's Repo</a></p>
 </body>
 </html>
