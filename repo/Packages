@@ -1,3 +1,20 @@
+Package: com.greeny.centerstage
+Version: 1.2.2-beta1-16
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 252
+Depends: mobilesubstrate, firmware (>=7.0)
+Filename: .///com.greeny.centerstage_1.2.2-beta1-16_iphoneos-arm.deb
+Size: 25618
+MD5sum: 13e833679ce68726c5d08d9bd4a39168
+SHA1: 025d011c3bd5dbf579933f79cfdbda0bb333e26f
+SHA256: 479baa2bb31fb37dab8d943b32a3ed19652df50d14c2f6e34aa9413f9ada89b3
+Section: Tweaks
+Description: Only invokes the NC and CC by dragging from the middle of the screen!
+Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/centerstage/index.html
+Name: CenterStage
+
 Package: com.greeny.testpackage
 Version: 0.0.1-36
 Architecture: iphoneos-arm
