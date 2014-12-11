@@ -33,18 +33,19 @@ Depiction: http://greenydev.github.io/repo/testpackage/index.html
 Name: TestPackage
 
 Package: com.greeny.voipremover
-Version: 0.0.1-13
+Version: 0.0.1-15
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 160
 Depends: mobilesubstrate
-Filename: .///com.greeny.voipremover_0.0.1-13_iphoneos-arm.deb
-Size: 15360
-MD5sum: 20f761339d8cd0059a4842e90a2895e8
-SHA1: 873d18066d7559c7ba53e7634dc6b142ced59cd8
-SHA256: a88d20acd888ed2d1d0fd3a43da43256ee772bbaf78cd66298b99b8333a4dcbf
+Filename: .///com.greeny.voipremover_0.0.1-15_iphoneos-arm.deb
+Size: 15408
+MD5sum: 50ebd082cc933544c9e05ea733a207e3
+SHA1: 0f6bf6eda08250eb61a061e1558fadbe4cfdad30
+SHA256: 37ff67a78884daf052deef20ecaa95f30baa9b434ae6f38d5c9915b945a3eacd
 Section: Tweaks
 Description: Stop apps from abusing VoIP!
 Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/voipremover/index.html
 Name: VoIPRemover
 
