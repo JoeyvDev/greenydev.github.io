@@ -15,6 +15,22 @@ Author: GreenyDev
 Depiction: http://greenydev.github.io/repo/centerstage/index.html
 Name: CenterStage
 
+Package: com.greeny.systemwidepredictivetext
+Version: 0.0.1-11
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .///com.greeny.systemwidepredictivetext_0.0.1-11_iphoneos-arm.deb
+Size: 4304
+MD5sum: 446b43021cf23f6417ea637a54b5d16c
+SHA1: 49b8976a9f1b0e59160cac8c95afe0d23fa2a335
+SHA256: b472864e322ce636b73e282714852b00447d9a98fe3cb28b6faa6941c45b3a49
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev
+Name: SystemWidePredictiveText
+
 Package: com.greeny.testpackage
 Version: 0.0.1-36
 Architecture: iphoneos-arm
