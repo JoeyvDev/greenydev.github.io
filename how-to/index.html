@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset=”utf-8”> 
+ <title>How to create a Github Cydia Repo</title>
+ <p>To create a website on GitHub, you need to set up a public repository with the format (your username).github.io, for example evilgoldfish.github.io
+After doing this, you need to clone the repository, which is really simple to do if you have the GitHub for Mac/Windows app. Just download the app, open it once, and then go back to github.com and look for a "Clone in Desktop" button. The GitHub app should fire up and give a choice on where to clone the repo. Find a suitable place and clone the repo.
+After cloning the repo, you need to place your .deb packages inside the newly cloned folder. Then open up Terminal/cmd/whatever program that can run the next command and type in
+cd (add a space)
+And drag your cloned repo folder into the window. Press enter. Then type:
+dpkg-scanpackages -m . /dev/null >Packages
+Press enter, and a file called Packages should appear. Next, type in:
+bzip2 Packages
+Press enter, and there should be a file called Packages.bz2. That's it! You have done the repository part. Now you need to go back to GitHub for Mac/Windows, find your github.io repo, click on it and click commit. Now, on the top right of the window there will be a sync button. Click that. After it finishes, check the GitHub website and make sure that the files are there. If they are, great job! If not, PM me. Now you wait. GitHub takes about 10+ minutes before the website will be up and running. After that changes should appear within 30 seconds. If you also want to be fancy, add an index.html file that users will be redirected to if they open your repo website in a browser.
+If the guide isn't clear enough, please let me know.
+I'm actually working on an app that will make this process a little easier, so stay tuned for that. I'll also send you a copy of dpkg-scanpackages in a separate PM.
+</p>
+ </div>
+ <script src="http://code.jquery.com/jquery.js"></script>
+ <script src="../js/bootstrap.min.js"></script>
+</body>
+</html>
