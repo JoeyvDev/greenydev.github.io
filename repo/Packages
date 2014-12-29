@@ -1,3 +1,20 @@
+Package: com.greeny.autostatisticsreset
+Version: 0.0.1-33
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 280
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: .///com.greeny.autostatisticsreset_0.0.1-33_iphoneos-arm.deb
+Size: 130128
+MD5sum: 7dee66d9fe46dae172df9266fce4afe6
+SHA1: b4ac3bbeecb695df248f67d5883a7bbbe29257ae
+SHA256: 01e594f9a92057afc4060b1d9997e022fd66de8eb29998a3c15e454dc812a2ce
+Section: Tweaks
+Description: Automatically reset Cellular statistics on a certain day!
+Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/autostatisticsreset/index.html
+Name: AutoStatisticsReset
+
 Package: com.greeny.centerstage
 Version: 1.2.2-beta1-1
 Architecture: iphoneos-arm
@@ -49,16 +66,16 @@ Depiction: http://greenydev.github.io/repo/testpackage/index.html
 Name: TestPackage
 
 Package: com.greeny.voipremover
-Version: 0.0.1-23
+Version: 0.0.1-27
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 160
 Depends: mobilesubstrate
-Filename: .///com.greeny.voipremover_0.0.1-23_iphoneos-arm.deb
-Size: 16324
-MD5sum: c5dbb37be0d6efe0f3ae0c509d4fbeaf
-SHA1: 4a893232c97692f69a3123dda961068eccca1b88
-SHA256: 615932f08c9ca7f998c6a8e5d2e4faa478279418f7c9b957b96f34254aa4a5d6
+Filename: .///com.greeny.voipremover_0.0.1-27_iphoneos-arm.deb
+Size: 15986
+MD5sum: dec7b008928d430555e21cd1a7580876
+SHA1: 3328e4fa06a233231e4a2464395d1ef80ec2c155
+SHA256: d3c2262e4d7e775911a922bbdd9d7167580bf0b4178da301a116cd68828e33ef
 Section: Tweaks
 Description: Stop apps from abusing VoIP!
 Author: GreenyDev
