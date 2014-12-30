@@ -1,17 +1,17 @@
 Package: com.greeny.autostatisticsreset
-Version: 0.0.1-33
+Version: 0.0.1-34
 Architecture: iphoneos-arm
-Maintainer: GreenyDev
+Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 280
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
-Filename: .///com.greeny.autostatisticsreset_0.0.1-33_iphoneos-arm.deb
-Size: 130128
-MD5sum: 7dee66d9fe46dae172df9266fce4afe6
-SHA1: b4ac3bbeecb695df248f67d5883a7bbbe29257ae
-SHA256: 01e594f9a92057afc4060b1d9997e022fd66de8eb29998a3c15e454dc812a2ce
+Filename: .///com.greeny.autostatisticsreset_0.0.1-34_iphoneos-arm.deb
+Size: 130150
+MD5sum: 8054c1fd1dfd60beb987bec3510a0137
+SHA1: 188ad06967e081f096288a0f66a7764dd16d6c6a
+SHA256: 5c6795979200b0bea488456f09311248fd7666bd51945509105255e1a053cdfb
 Section: Tweaks
 Description: Automatically reset Cellular statistics on a certain day!
-Author: GreenyDev
+Author: GreenyDev <greenydev@greenmail.net.au>
 Depiction: http://greenydev.github.io/repo/autostatisticsreset/index.html
 Name: AutoStatisticsReset
 
