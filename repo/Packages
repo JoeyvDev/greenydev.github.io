@@ -32,6 +32,22 @@ Author: GreenyDev
 Depiction: http://greenydev.github.io/repo/centerstage/index.html
 Name: CenterStage
 
+Package: com.greeny.nosiri
+Version: 0.0.1-7
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .///com.greeny.nosiri_0.0.1-7_iphoneos-arm.deb
+Size: 4592
+MD5sum: 230181006b653eb6b7f305258559870e
+SHA1: 7505fa51b9d75c80785eaf0a71e9a98b3bc1b9bb
+SHA256: 44e7a87eebd15684a941f6d1819d3b2f14c0ed7079f03eb6ae28561b7f5d8c84
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev
+Name: NoSiri
+
 Package: com.greeny.systemwidepredictivetext
 Version: 0.0.1-11
 Architecture: iphoneos-arm
