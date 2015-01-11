@@ -32,6 +32,23 @@ Author: GreenyDev
 Depiction: http://greenydev.github.io/repo/centerstage/index.html
 Name: CenterStage
 
+Package: com.greeny.noappclose
+Version: 0.0.1-13
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=7.0)
+Filename: .///com.greeny.noappclose_0.0.1-13_iphoneos-arm.deb
+Size: 4678
+MD5sum: cabe5f62db7aaa080b3a2edf58cceb2e
+SHA1: ec05663666e3e6cb013bbde0c129a7aa0ee46a28
+SHA256: 889b089590df3ef55763bb20c7525b80cccbe76b054f6d588a41e882f88d8d12
+Section: Tweaks
+Description: Prevent closing apps via the app switcher
+Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/noappclose/index.html
+Name: NoAppClose
+
 Package: com.greeny.nosiri
 Version: 0.0.1-7
 Architecture: iphoneos-arm
