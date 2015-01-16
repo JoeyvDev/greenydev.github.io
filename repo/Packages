@@ -32,6 +32,22 @@ Author: GreenyDev
 Depiction: http://greenydev.github.io/repo/centerstage/index.html
 Name: CenterStage
 
+Package: com.greeny.dependancytest
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 104
+Depends: mobilesubstrate, com.codethemed.iconbundles
+Filename: .///com.greeny.dependancytest_0.0.1-2_iphoneos-arm.deb
+Size: 2390
+MD5sum: 80dd0b3ae1a992ab3b0087b7c32d9b63
+SHA1: 9e82829df07f0e9080f5f1f5ec6b406c0aeed288
+SHA256: af19ebd0879b6203512f435e203a0b42076a4d6e88069f6648f347da8cbb0473
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev
+Name: DependancyTest
+
 Package: com.greeny.noappclose
 Version: 0.0.1-13
 Architecture: iphoneos-arm
