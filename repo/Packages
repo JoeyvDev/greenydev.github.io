@@ -16,16 +16,16 @@ Depiction: http://greenydev.github.io/repo/autostatisticsreset/index.html
 Name: AutoStatisticsReset
 
 Package: com.greeny.centerstage
-Version: 1.2.2-beta1-1
+Version: 1.2.2-beta1-14
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
-Installed-Size: 252
+Installed-Size: 188
 Depends: mobilesubstrate, firmware (>=7.0)
-Filename: .///com.greeny.centerstage_1.2.2-beta1_iphoneos-arm.deb
-Size: 25618
-MD5sum: a7c8329f81b2e9b61bf066fb3f89ae89
-SHA1: e3306abdab3cd257b1f1a9b0e5fb61dd28ebf61e
-SHA256: eb4b417f31a86b31b2dc46a8c2b5a5e167933b9bbf670faa16adc5d47ba045d1
+Filename: .///com.greeny.centerstage_1.2.2-beta1-14_iphoneos-arm.deb
+Size: 25820
+MD5sum: 6938c7854b1380a0fbc2c2a8d7cd9f5f
+SHA1: ae5ead4818b27c8769715a4ab834c0f44192d44c
+SHA256: c561946f4a3a05f0e8c770f388980560cf13ac4bb05c8586920d45a95ff06fc3
 Section: Tweaks
 Description: Only invokes the NC and CC by dragging from the middle of the screen!
 Author: GreenyDev
