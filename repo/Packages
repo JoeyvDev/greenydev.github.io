@@ -66,16 +66,16 @@ Depiction: http://greenydev.github.io/repo/noappclose/index.html
 Name: NoAppClose
 
 Package: com.greeny.nomotion
-Version: 1.1beta--30
+Version: 1.1beta--38
 Architecture: iphoneos-arm
 Maintainer: GreenyDev <greenydev@greenmail.net.au>
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>=7.0)
-Filename: .///com.greeny.nomotion_1.1beta--30_iphoneos-arm.deb
-Size: 12496
-MD5sum: d819a22f9279be4a460f31d783f5afaf
-SHA1: 5ee644e75277e5af7615157778c50b8e13bc45d5
-SHA256: a0493b52f352f4175e7fd2cd5e9aff8e521c8b57f34fdff2cd4b6a1b6219d0e2
+Filename: .///com.greeny.nomotion_1.1beta--38_iphoneos-arm.deb
+Size: 12808
+MD5sum: 82b2533685c00e17b465ef210b3c2bd3
+SHA1: 6e8ab396d8f4f8bae27271c48acad34b8a2e9bb8
+SHA256: c12de28ad87fd61eea792276316483a4b1d151d4b3b9860df2a62de7592d9f48
 Section: Tweaks
 Description: Remove the parallax effect, everywhere.
 Author: GreenyDev <greenydev@greenmail.net.au>
