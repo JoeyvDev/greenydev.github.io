@@ -148,3 +148,21 @@ Author: GreenyDev
 Depiction: http://greenydev.github.io/repo/voipremover/index.html
 Name: VoIPRemover
 
+Package: com.greeny.yesmotion
+Version: 0.0.1-8
+Architecture: iphoneos-arm
+Maintainer: GreenyDev <greenydev@greenmail.net.au>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=7.0)
+Conflicts: com.greeny.nomotion
+Filename: .///com.greeny.yesmotion_0.0.1-8_iphoneos-arm.deb
+Size: 4042
+MD5sum: 5bd0f2160a43527bb12f11916112849c
+SHA1: 769058e56164b1f47b8f462dde00df1e0875b2c5
+SHA256: 75d43cf9ad186832a78523624f1805f1ccd2aa08f4977bc90cf4c717cf892a88
+Section: Tweaks
+Description: Enables Parallax effect everywhere. Useful for those who want the Parallax Effect but want Reduce Motion on.
+Author: GreenyDev <greenydev@greenmail.net.au>
+Depiction: http://greenydev.github.io/repo/yesmotion/index.html
+Name: YesMotion
+
