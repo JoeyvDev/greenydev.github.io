@@ -1,0 +1,133 @@
+Package: com.greeny.autostatisticsreset
+Version: 0.0.1-34
+Architecture: iphoneos-arm
+Maintainer: GreenyDev <greenydev@greenmail.net.au>
+Installed-Size: 280
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: .///com.greeny.autostatisticsreset_0.0.1-34_iphoneos-arm.deb
+Size: 130150
+MD5sum: 8054c1fd1dfd60beb987bec3510a0137
+SHA1: 188ad06967e081f096288a0f66a7764dd16d6c6a
+SHA256: 5c6795979200b0bea488456f09311248fd7666bd51945509105255e1a053cdfb
+Section: Tweaks
+Description: Automatically reset Cellular statistics on a certain day!
+Author: GreenyDev <greenydev@greenmail.net.au>
+Depiction: http://greenydev.github.io/repo/autostatisticsreset/index.html
+Name: AutoStatisticsReset
+
+Package: com.greeny.centerstage
+Version: 1.2.2-beta1-14
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>=7.0)
+Filename: .///com.greeny.centerstage_1.2.2-beta1-14_iphoneos-arm.deb
+Size: 25820
+MD5sum: 6938c7854b1380a0fbc2c2a8d7cd9f5f
+SHA1: ae5ead4818b27c8769715a4ab834c0f44192d44c
+SHA256: c561946f4a3a05f0e8c770f388980560cf13ac4bb05c8586920d45a95ff06fc3
+Section: Tweaks
+Description: Only invokes the NC and CC by dragging from the middle of the screen!
+Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/centerstage/index.html
+Name: CenterStage
+
+Package: com.greeny.dependancytest
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 104
+Depends: mobilesubstrate, com.codethemed.iconbundles
+Filename: .///com.greeny.dependancytest_0.0.1-2_iphoneos-arm.deb
+Size: 2390
+MD5sum: 80dd0b3ae1a992ab3b0087b7c32d9b63
+SHA1: 9e82829df07f0e9080f5f1f5ec6b406c0aeed288
+SHA256: af19ebd0879b6203512f435e203a0b42076a4d6e88069f6648f347da8cbb0473
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev
+Name: DependancyTest
+
+Package: com.greeny.noappclose
+Version: 0.0.1-13
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=7.0)
+Filename: .///com.greeny.noappclose_0.0.1-13_iphoneos-arm.deb
+Size: 4678
+MD5sum: cabe5f62db7aaa080b3a2edf58cceb2e
+SHA1: ec05663666e3e6cb013bbde0c129a7aa0ee46a28
+SHA256: 889b089590df3ef55763bb20c7525b80cccbe76b054f6d588a41e882f88d8d12
+Section: Tweaks
+Description: Prevent closing apps via the app switcher
+Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/noappclose/index.html
+Name: NoAppClose
+
+Package: com.greeny.nomotion
+Version: 1.1beta--60
+Architecture: iphoneos-arm
+Maintainer: GreenyDev <greenydev@greenmail.net.au>
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>=7.0)
+Filename: .///com.greeny.nomotion_1.1beta--60_iphoneos-arm.deb
+Size: 4098
+MD5sum: bc5b8c997abd8bbe1f1123cc746b25f6
+SHA1: c21db037f0bd56a79823328adb13456e680e456f
+SHA256: 04beebcecb03251815261774d84e4f874d76c10da7b456f866b0e1c54bd636e7
+Section: Tweaks
+Description: Remove the parallax effect, everywhere.
+Author: GreenyDev <greenydev@greenmail.net.au>
+Depiction: http://greenydev.github.io/repo/nomotion/index.html
+Name: NoMotion
+
+Package: com.greeny.nosiri
+Version: 0.0.1-7
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .///com.greeny.nosiri_0.0.1-7_iphoneos-arm.deb
+Size: 4592
+MD5sum: 230181006b653eb6b7f305258559870e
+SHA1: 7505fa51b9d75c80785eaf0a71e9a98b3bc1b9bb
+SHA256: 44e7a87eebd15684a941f6d1819d3b2f14c0ed7079f03eb6ae28561b7f5d8c84
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev
+Name: NoSiri
+
+Package: com.greeny.systemwidepredictivetext
+Version: 0.0.1-11
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .///com.greeny.systemwidepredictivetext_0.0.1-11_iphoneos-arm.deb
+Size: 4304
+MD5sum: 446b43021cf23f6417ea637a54b5d16c
+SHA1: 49b8976a9f1b0e59160cac8c95afe0d23fa2a335
+SHA256: b472864e322ce636b73e282714852b00447d9a98fe3cb28b6faa6941c45b3a49
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GreenyDev
+Name: SystemWidePredictiveText
+
+Package: com.greeny.voipremover
+Version: 0.0.1-27
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: .///com.greeny.voipremover_0.0.1-27_iphoneos-arm.deb
+Size: 15986
+MD5sum: dec7b008928d430555e21cd1a7580876
+SHA1: 3328e4fa06a233231e4a2464395d1ef80ec2c155
+SHA256: d3c2262e4d7e775911a922bbdd9d7167580bf0b4178da301a116cd68828e33ef
+Section: Tweaks
+Description: Stop apps from abusing VoIP!
+Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/voipremover/index.html
+Name: VoIPRemover
+
