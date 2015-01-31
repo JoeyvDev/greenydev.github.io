@@ -1,3 +1,20 @@
+Package: com.greeny.abnoads
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: GreenyDev <greenydev@greenmail.net.au>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .///com.greeny.abnoads_0.0.1-4_iphoneos-arm.deb
+Size: 3594
+MD5sum: 61318ce87ffc007e35ec77b9354e03c7
+SHA1: 012f1ffe0c9e6a23b70d92d69223ad8b127d7247
+SHA256: ff77c1f9af7be3e40d35f08e087049c4c4cd6f0634c75131f1072b14dee0f029
+Section: Tweaks
+Description: Blocks the new AlienBlue ads
+Author: GreenyDev <greenydev@greenmail.net.au>
+Depiction: http://greenydev.github.io/repo/abnoads/index.html
+Name: ABNoAds
+
 Package: com.greeny.autostatisticsreset
 Version: 0.0.1-34
 Architecture: iphoneos-arm
