@@ -1,34 +1,47 @@
 <html>
 <head>
-   <title>NoMotion</title>
-   <link rel="stylesheet" type="text/css" href="http://cydia.saurik.com/menes/style.css"/>
-   <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
+    <title>NoMotion</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
+    <base target="_blank"/>
+    <script type="text/javascript" src="http://beta.tmnlsthrn.com/css/menes.js"></script>
+    <link rel="stylesheet" type="text/css" id="stylesheet">
+    <script type="text/javascript">var agent=navigator.userAgent;var ios=agent.match(/.*; CPU (?:iPhone )?OS ([0-9_]*) like Mac OS X[;)]/);ios=ios==null?'6.0':ios[1].replace(/_/g,'.');var stylesheet=$("#stylesheet");if(ios.match(/^[78]($|\.)/)!=null){stylesheet.href("http://beta.tmnlsthrn.com/css/ios78.css")}else{stylesheet.href("http://beta.tmnlsthrn.com/css/legacy.css")}</script>
 </head>
-<body class="transparent">
-   <panel>
-      <fieldset style="clear:both">
-         <div>
+
+<script type="text/javascript">
+    if (navigator.userAgent.search(/Cydia/) != -1)
+    document.write('<style type="text/css"> body { background: none !important; } .header { display: none !important; } </style>');
+    </script>
+
+<body class="pinstripe">
+    <panel>
+
+        <fieldset class="iosver">
+            <div data-min-ios="7.0" data-max-ios="8.1.2" class="prerequisite">
+                <p>Supports iOS 7.0 to 8.1.2</p>
+            </div>
+        </fieldset>
+
+    <label>Description</label>
+        <fieldset>
+            <div>
             <p>Remove the parallax effect, everywhere. Even in 3rd party apps that use parallax via Apple's APIs.</p>
             <p>If you would like to make a contribution, please do so through Paypal using the following email: greenydev@greenmail.net.au</p>
-         </div>
-      </fieldset>
-      <!--div class="horizontal-scroll-wrapper" id="scroller" style="height:455px;padding-top:10px"><div class="horizontal-scroll-area" style="width:1200px"><img src="screenshot1.png" /><img src="screenshot2.jpg" /><img src="screenshot3.jpg" /><img src="screenshot4.jpg" /><img src="screenshot5.jpg" /></div><div class="horizontal-scroll-pips" style="margin-top:15px"></div></div-->
-      <fieldset>
-      <!--img class="icon" src="../web/github.png"/-->
-         <a href="https://twitter.com/GreenyDev" target="_blank" >Follow @GreenyDev on Twitter!</a>
-         <a href="https://github.com/GreenyDev" target="_blank">See my open-sourced tweaks on Github!</a>
-   </fieldset>
+            </div>
+        </fieldset>
 
-   <label>Latest Changes</label>
+    <label>Latest Changes</label>
+        <fieldset>
+            <a><div><div><label><p>Removed settings completely, was causing too many issues. If you'd like to disable the tweak, either uninstall or disable the dylib using iCleanerPro.</p></label></div></div></a>
+        </fieldset>
+        
+    <label>Information</label>
+        <fieldset>
+            <a href="https://twitter.com/GreenyDev"><img class="icon" src="http://beta.tmnlsthrn.com/icon/twitter_round.png"><div><div><label><p>Follow @GreenyDev on Twitter!</p></label></div></div></a>
+            <a href="https://github.com/GreenyDev"><img class="icon" src="http://beta.tmnlsthrn.com/icon/github_round.png"><div><div><label><p>See my open-sourced tweaks on Github!</p></label></div></div></a>
+        </fieldset>
 
-   <fieldset>
-      <div>
-         <p>Removed settings completely, was causing too many issues. If you'd like to disable the tweak, either uninstall or disable the dylib using iCleanerPro.</p>
-         <p>New Icon!</p>
-         <p>Settings is now just a root-level switch</p>
-         <p>On/Off Switch is now partially working - you may need to respring to apply changes. I'm working on fixing this.</p>
-      </div>
-   </fieldset>
 </panel>
+<script src="http://beta.tmnlsthrn.com/css/iosver.js" async></script>
 </body>
 </html>
