@@ -16,19 +16,19 @@ Depiction: http://greenydev.github.io/repo/abnoads/index.html
 Name: ABNoAds
 
 Package: com.greeny.autostatisticsreset
-Version: 0.0.1-34
+Version: 0.0.1-35
 Architecture: iphoneos-arm
-Maintainer: GreenyDev <greenydev@greenmail.net.au>
-Installed-Size: 280
-Depends: mobilesubstrate, com.a3tweaks.flipswitch
-Filename: .///com.greeny.autostatisticsreset_0.0.1-34_iphoneos-arm.deb
-Size: 130150
-MD5sum: 8054c1fd1dfd60beb987bec3510a0137
-SHA1: 188ad06967e081f096288a0f66a7764dd16d6c6a
-SHA256: 5c6795979200b0bea488456f09311248fd7666bd51945509105255e1a053cdfb
+Maintainer: GreenyDev
+Installed-Size: 444
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, ws.hbang.common
+Filename: .///com.greeny.autostatisticsreset_0.0.1-35_iphoneos-arm.deb
+Size: 200124
+MD5sum: 8bb4144eb7ebd68e3cea55ae8ec0aae6
+SHA1: 7dd7097dec171782ec79ce6ee28c95498c18595f
+SHA256: e1c951050e59fec06b2bf6648f4c6f92bb8a593f9e71b06ba9d9f62044ca370f
 Section: Tweaks
 Description: Automatically reset Cellular statistics on a certain day!
-Author: GreenyDev <greenydev@greenmail.net.au>
+Author: GreenyDev
 Depiction: http://greenydev.github.io/repo/autostatisticsreset/index.html
 Name: AutoStatisticsReset
 
