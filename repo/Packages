@@ -1,20 +1,20 @@
 Package: com.greeny.ReStats
-Version: 0.0.1-17
+Version: 0.0.1-22
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 444
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, ws.hbang.common
 Conflicts: com.greeny.autostatisticsreset
-Filename: .///com.greeny.ReStats_0.0.1-17_iphoneos-arm.deb
-Size: 200308
-MD5sum: 163f6bec5efe0131db700560471b06ec
-SHA1: 79fa3d5a7e4511b7d350323601377cba695d8c5b
-SHA256: e4721b5a9f47504d64f72c6ee69be42393f34f8cadcad79e756d333d210f2cf3
+Filename: .///com.greeny.ReStats_0.0.1-22_iphoneos-arm.deb
+Size: 200350
+MD5sum: 4f56708f080dd3355971eb2ce6e7c3f4
+SHA1: 945da4e38a1b6c1b8f881154677a45d1c6365276
+SHA256: bb4281f0f2ad0950097747596bf8a61a39cda0da0bafb444d5dd4fda202b0d86
 Section: Tweaks
 Description: Automatically reset Cellular statistics on a certain day!
 Author: GreenyDev
-Depiction: http://greenydev.github.io/repo/ReStats/index.html
-Icon: file:///Library/PreferenceBundles/RCSPrefs.bundle/RCSPrefs@2x.png
+Depiction: http://greenydev.github.io/repo/restats/index.html
+Icon: http://greenydev.github.io/repo/icons/RCSPrefs@3x.png
 Name: ReStats
 
 Package: com.greeny.abnoads
