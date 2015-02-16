@@ -1,3 +1,21 @@
+Package: com.greeny.ReStats
+Version: 0.0.1-5
+Architecture: iphoneos-arm
+Maintainer: GreenyDev
+Installed-Size: 444
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, ws.hbang.common
+Conflicts: com.greeny.autostatisticsreset
+Filename: .///com.greeny.ReStats_0.0.1-5_iphoneos-arm.deb
+Size: 200196
+MD5sum: 82caa92d1e2a1ea063e8e47bb1697561
+SHA1: 27f0e7d5678c2b7c0e7dd79a534cfee6d513e47b
+SHA256: 8c2cac827ac3cc17c17f8e84049f8ed9cdc51674eee51a779ca59c09b84de495
+Section: Tweaks
+Description: Automatically reset Cellular statistics on a certain day!
+Author: GreenyDev
+Depiction: http://greenydev.github.io/repo/ReStats/index.html
+Name: ReStats
+
 Package: com.greeny.abnoads
 Version: 0.0.1-4
 Architecture: iphoneos-arm
@@ -14,23 +32,6 @@ Description: Blocks the new AlienBlue ads
 Author: GreenyDev <greenydev@greenmail.net.au>
 Depiction: http://greenydev.github.io/repo/abnoads/index.html
 Name: ABNoAds
-
-Package: com.greeny.autostatisticsreset
-Version: 0.0.1-35
-Architecture: iphoneos-arm
-Maintainer: GreenyDev
-Installed-Size: 444
-Depends: mobilesubstrate, com.a3tweaks.flipswitch, ws.hbang.common
-Filename: .///com.greeny.autostatisticsreset_0.0.1-35_iphoneos-arm.deb
-Size: 200124
-MD5sum: 8bb4144eb7ebd68e3cea55ae8ec0aae6
-SHA1: 7dd7097dec171782ec79ce6ee28c95498c18595f
-SHA256: e1c951050e59fec06b2bf6648f4c6f92bb8a593f9e71b06ba9d9f62044ca370f
-Section: Tweaks
-Description: Automatically reset Cellular statistics on a certain day!
-Author: GreenyDev
-Depiction: http://greenydev.github.io/repo/autostatisticsreset/index.html
-Name: AutoStatisticsReset
 
 Package: com.greeny.centerstage
 Version: 1.2.2-beta1-14
