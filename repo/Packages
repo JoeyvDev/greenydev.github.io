@@ -99,17 +99,17 @@ Author: GreenyDev
 Name: NoSiri
 
 Package: com.greeny.restats
-Version: 1.1-24
+Version: 1.1-25
 Architecture: iphoneos-arm
 Maintainer: GreenyDev
 Installed-Size: 448
 Depends: mobilesubstrate
 Conflicts: com.greeny.autostatisticsreset
-Filename: .///debs/com.greeny.restats_1.1-24_iphoneos-arm.deb
-Size: 178040
-MD5sum: 1bd14354e7bc27efa23d4dc3d790d217
-SHA1: dfda325bf0eba98f8dc6bd0d53dfda0df402663c
-SHA256: 9171c3a569ccee8c393876476719f91470612d958ce84fd0c9bd4db9722e9935
+Filename: .///debs/com.greeny.restats_1.1-25_iphoneos-arm.deb
+Size: 177992
+MD5sum: a4955cf7b62c8eb09a1fea8aaeb9caf8
+SHA1: 4f5242ae35fec4d26983d3955ad708580134e9fb
+SHA256: e4de0b34d7b22971d27484dcaf8050fa9c27d38fcff7e8b81d497f66dd5556c1
 Section: Tweaks
 Description: Automatically reset Cellular statistics on a certain day!
 Author: GreenyDev
